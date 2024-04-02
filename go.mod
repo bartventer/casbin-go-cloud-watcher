@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/casbin/casbin/v2 v2.79.0
-	github.com/google/uuid v1.4.0
+	github.com/google/uuid v1.6.0
 	github.com/nats-io/nats-server/v2 v2.10.6
 	github.com/nats-io/nats.go v1.31.0
 	gocloud.dev v0.34.0
